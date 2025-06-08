@@ -39,6 +39,6 @@ In this project, comprehensive API testing was conducted for the Dmoney portal c
 https://documenter.getpostman.com/view/38029467/2sB2x3nCyr
 ## Report :
 ### Newman Report
-![image](https://github.com/user-attachments/assets/dff1d386-1c13-4b0b-b594-116f90a2942b)
+![image](https://github.com/user-attachments/assets/d4e37e59-058f-4c72-b97b-08d965ee1667)
 
 #### Caution : You must have the .env file to run this project.
