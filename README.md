@@ -34,6 +34,8 @@ In this project, comprehensive API testing was conducted for the Dmoney portal c
 - ``` git clone ```
 - ``` npm i ```
 - ```npm test ```
+  
+#### Caution : You must have the .env file to run this project.
 
 ## Documentation :
 https://documenter.getpostman.com/view/38029467/2sB2x3nCyr
@@ -47,4 +49,4 @@ https://docs.google.com/spreadsheets/d/10p08rQCLik3ZteDPyRK8r5h_Uy8scJIbam9syqdg
 ## Bug Report :
 https://docs.google.com/spreadsheets/d/10p08rQCLik3ZteDPyRK8r5h_Uy8scJIbam9syqdgudI/edit?usp=sharing
 
-#### Caution : You must have the .env file to run this project.
+
