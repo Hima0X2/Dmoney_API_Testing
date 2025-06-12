@@ -41,4 +41,10 @@ https://documenter.getpostman.com/view/38029467/2sB2x3nCyr
 ### Newman Report
 ![image](https://github.com/user-attachments/assets/d4e37e59-058f-4c72-b97b-08d965ee1667)
 
+## Test Case :
+https://docs.google.com/spreadsheets/d/10p08rQCLik3ZteDPyRK8r5h_Uy8scJIbam9syqdgudI/edit?usp=sharing
+
+## Bug Report :
+https://docs.google.com/spreadsheets/d/10p08rQCLik3ZteDPyRK8r5h_Uy8scJIbam9syqdgudI/edit?usp=sharing
+
 #### Caution : You must have the .env file to run this project.
