@@ -41,7 +41,7 @@ In this project, comprehensive API testing was conducted for the Dmoney portal c
 https://documenter.getpostman.com/view/38029467/2sB2x3nCyr
 ## Report :
 ### Newman Report
-![image](https://github.com/user-attachments/assets/d4e37e59-058f-4c72-b97b-08d965ee1667)
+![image](https://github.com/user-attachments/assets/a5b7f581-b009-40a1-9b63-a2100f48a103)
 
 ## Test Case :
 https://docs.google.com/spreadsheets/d/10p08rQCLik3ZteDPyRK8r5h_Uy8scJIbam9syqdgudI/edit?usp=sharing
